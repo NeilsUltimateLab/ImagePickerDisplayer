@@ -14,6 +14,7 @@
 		28D7F9882578D2DA00CF8AF2 /* ImagePickerDisplaying+SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D7F9872578D2DA00CF8AF2 /* ImagePickerDisplaying+SwiftUI.swift */; };
 		28D7F98B2578D3DE00CF8AF2 /* AppError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D7F98A2578D3DE00CF8AF2 /* AppError.swift */; };
 		28D7F98F2578D8AE00CF8AF2 /* AppError+SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D7F98E2578D8AE00CF8AF2 /* AppError+SwiftUI.swift */; };
+		28D7F9932578DD7C00CF8AF2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 28D7F9922578DD7C00CF8AF2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		28D7F9872578D2DA00CF8AF2 /* ImagePickerDisplaying+SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ImagePickerDisplaying+SwiftUI.swift"; sourceTree = "<group>"; };
 		28D7F98A2578D3DE00CF8AF2 /* AppError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppError.swift; sourceTree = "<group>"; };
 		28D7F98E2578D8AE00CF8AF2 /* AppError+SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AppError+SwiftUI.swift"; sourceTree = "<group>"; };
+		28D7F9922578DD7C00CF8AF2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				28D7F98E2578D8AE00CF8AF2 /* AppError+SwiftUI.swift */,
 				28D7F97B2578D2B800CF8AF2 /* Assets.xcassets */,
 				28D7F9802578D2B800CF8AF2 /* Info.plist */,
+				28D7F9922578DD7C00CF8AF2 /* README.md */,
 				28D7F97D2578D2B800CF8AF2 /* Preview Content */,
 			);
 			path = ImagePickerDisplayer;
@@ -135,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28D7F9932578DD7C00CF8AF2 /* README.md in Resources */,
 				28D7F97F2578D2B800CF8AF2 /* Preview Assets.xcassets in Resources */,
 				28D7F97C2578D2B800CF8AF2 /* Assets.xcassets in Resources */,
 			);
